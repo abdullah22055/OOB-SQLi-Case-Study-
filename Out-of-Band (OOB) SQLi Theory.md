@@ -9,7 +9,9 @@ When:
 - application's responses are not observable
 
 ### How OOB SQLi Works:
-![[Pasted image 20260201201938.png]]
+<p align="center">
+<img width="60%" src="./Pasted image 20260201201938.png">
+</p>
 
 # Types of OOB SQLi:
 Typically, two types of OOB SQLi are demonstrated:
@@ -44,4 +46,4 @@ The attacker:
 - monitors the server and confirms the vulnerability when the http request shows up.
 
 This explanation will help understanding behind the scenes of an injection attack via out of band interaction.
-For a realistic understanding and approach, refer to the case study of OOB SQLi. Hope it helps!
+For a realistic approach, refer to the case study of OOB SQLi. Hope it helps!
